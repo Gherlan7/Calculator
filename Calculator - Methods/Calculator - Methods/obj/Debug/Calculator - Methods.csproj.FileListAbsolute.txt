@@ -1,0 +1,21 @@
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\bin\Debug\Calculator - Methods.exe.config
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\bin\Debug\Calculator - Methods.exe
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\bin\Debug\Calculator - Methods.pdb
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.csprojAssemblyReference.cache
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator___Methods.Form1.resources
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator___Methods.Properties.Resources.resources
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.csproj.GenerateResource.cache
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.csproj.CoreCompileInputs.cache
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.exe
+C:\Users\Gherlan\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.pdb
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\bin\Debug\Calculator - Methods.exe.config
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\bin\Debug\Calculator - Methods.exe
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\bin\Debug\Calculator - Methods.pdb
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.csproj.AssemblyReference.cache
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.csproj.SuggestedBindingRedirects.cache
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator___Methods.Form1.resources
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator___Methods.Properties.Resources.resources
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.csproj.GenerateResource.cache
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.csproj.CoreCompileInputs.cache
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.exe
+D:\Projects in Visual Studio 2019\source\repos\Calculator - Methods\Calculator - Methods\obj\Debug\Calculator - Methods.pdb
